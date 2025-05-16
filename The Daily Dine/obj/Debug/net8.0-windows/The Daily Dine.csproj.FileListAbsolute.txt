@@ -1,0 +1,160 @@
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.exe
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.deps.json
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.runtimeconfig.json
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.pdb
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form1.resources
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form2.resources
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form3.resources
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Properties.Resources.resources
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Dail.71BEDA17.Up2Date
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\refint\The Daily Dine.dll
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.pdb
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Daily Dine\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\ref\The Daily Dine.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.exe
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.deps.json
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.runtimeconfig.json
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.pdb
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form1.resources
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form2.resources
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form3.resources
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Properties.Resources.resources
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.AssemblyInfo.cs
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Dail.71BEDA17.Up2Date
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\refint\The Daily Dine.dll
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.pdb
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.genruntimeconfig.cache
+C:\Users\HP\Desktop\i232099_i232605_i232590_iteration1\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\ref\The Daily Dine.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.exe
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.deps.json
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.runtimeconfig.json
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.pdb
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.AssemblyReference.cache
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form1.resources
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form2.resources
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form3.resources
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form4.resources
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.menu.resources
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Properties.Resources.resources
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.GenerateResource.cache
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.AssemblyInfoInputs.cache
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.AssemblyInfo.cs
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.CoreCompileInputs.cache
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Dail.71BEDA17.Up2Date
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\refint\The Daily Dine.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.pdb
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.genruntimeconfig.cache
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\ref\The Daily Dine.dll
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.deals.resources
+C:\Users\nooru\Documents\semester4\SE\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.bill.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.exe
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.deps.json
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.runtimeconfig.json
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\The Daily Dine.pdb
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.AssemblyReference.cache
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.bill.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.deals.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form1.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form2.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form3.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form4.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form5.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.menu.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Properties.Resources.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.GenerateResource.cache
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.GeneratedMSBuildEditorConfig.editorconfig
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.AssemblyInfoInputs.cache
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.AssemblyInfo.cs
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.csproj.CoreCompileInputs.cache
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Dail.71BEDA17.Up2Date
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\refint\The Daily Dine.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.pdb
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The Daily Dine.genruntimeconfig.cache
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\ref\The Daily Dine.dll
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form6.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form7.resources
+D:\academia\university\semester4\Intro to SE\The-Daily-dine-main (2)\The-Daily-dine-main\The Daily Dine\The Daily Dine\obj\Debug\net8.0-windows\The_Daily_Dine.Form8.resources

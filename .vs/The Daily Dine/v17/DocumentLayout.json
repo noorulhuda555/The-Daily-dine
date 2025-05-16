@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\deals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\bill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\bill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\the daily dine\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\deals.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\deals.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\sql_code.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\sql_code.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|d:\\academia\\university\\semester4\\intro to se\\the-daily-dine-main (2)\\the-daily-dine-main\\the daily dine\\the daily dine\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D7B18D-25D8-49F3-88EB-2F6A437DB3A9}|The Daily Dine\\The Daily Dine.csproj|solutionrelative:the daily dine\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "menu.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\menu.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\menu.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\menu.cs",
+              "RelativeToolTip": "The Daily Dine\\menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:47:26.281Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form6.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form6.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form6.cs",
+              "RelativeToolTip": "The Daily Dine\\Form6.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAwBcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:57:37.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form2.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form2.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form2.cs",
+              "RelativeToolTip": "The Daily Dine\\Form2.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAwOcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:09:36.347Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form8.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form8.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form8.cs",
+              "RelativeToolTip": "The Daily Dine\\Form8.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAvwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:36:20.014Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Program.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Program.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Program.cs",
+              "RelativeToolTip": "The Daily Dine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T23:22:56.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form4.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form4.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form4.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:32:10.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "deals.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\deals.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\deals.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\deals.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\deals.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:18:14.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bill.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\bill.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\bill.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\bill.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:00:00.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form5.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form5.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form5.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:10:51.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form4.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form4.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form4.cs",
+              "RelativeToolTip": "The Daily Dine\\Form4.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAvwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:08:25.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form2.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form2.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form2.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:21:46.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bill.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\bill.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\bill.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\bill.cs",
+              "RelativeToolTip": "The Daily Dine\\bill.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAvwEcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:01:46.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "menu.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\menu.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\menu.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\menu.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:42:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "deals.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\deals.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\deals.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\deals.cs",
+              "RelativeToolTip": "The Daily Dine\\deals.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAIA+wJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:21:00.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form6.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form6.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form6.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:21:01.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form6.Designer.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form6.Designer.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form6.Designer.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form6.Designer.cs",
+              "RelativeToolTip": "The Daily Dine\\Form6.Designer.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAAAEQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:58:11.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form7.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form7.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form7.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:41:49.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form8.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form8.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form8.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:23:42.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form7.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form7.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form7.cs",
+              "RelativeToolTip": "The Daily Dine\\Form7.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:36:42.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form8.Designer.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form8.Designer.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form8.Designer.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form8.Designer.cs",
+              "RelativeToolTip": "The Daily Dine\\Form8.Designer.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAJMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:31:26.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form7.Designer.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form7.Designer.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form7.Designer.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form7.Designer.cs",
+              "RelativeToolTip": "The Daily Dine\\Form7.Designer.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAAA/wIYBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:56:11.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bill.Designer.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\bill.Designer.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\bill.Designer.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\bill.Designer.cs",
+              "RelativeToolTip": "The Daily Dine\\bill.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:24:55.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form2.Designer.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form2.Designer.cs",
+              "RelativeToolTip": "The Daily Dine\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:13:20.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form1.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form1.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form1.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:21:58.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form3.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form3.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form3.cs [Design]",
+              "RelativeToolTip": "The Daily Dine\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:20:02.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form3.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form3.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form3.cs",
+              "RelativeToolTip": "The Daily Dine\\Form3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:09:33.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form1.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form1.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form1.cs",
+              "RelativeToolTip": "The Daily Dine\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:04:58.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "deals.Designer.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\deals.Designer.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\deals.Designer.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\deals.Designer.cs",
+              "RelativeToolTip": "The Daily Dine\\deals.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:13:10.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form3.Designer.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form3.Designer.cs",
+              "RelativeToolTip": "The Daily Dine\\Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:11:22.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\Form1.Designer.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\Form1.Designer.cs",
+              "RelativeToolTip": "The Daily Dine\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:10:53.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "sql_code.sql",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\sql_code.sql",
+              "RelativeDocumentMoniker": "The Daily Dine\\sql_code.sql",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\sql_code.sql",
+              "RelativeToolTip": "The Daily Dine\\sql_code.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-26T09:08:22.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "sessionManager.cs",
+              "DocumentMoniker": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\sessionManager.cs",
+              "RelativeDocumentMoniker": "The Daily Dine\\sessionManager.cs",
+              "ToolTip": "D:\\academia\\university\\semester4\\Intro to SE\\The-Daily-dine-main (2)\\The-Daily-dine-main\\The Daily Dine\\The Daily Dine\\sessionManager.cs",
+              "RelativeToolTip": "The Daily Dine\\sessionManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:49:00.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
